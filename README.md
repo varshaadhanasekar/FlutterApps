@@ -1,10 +1,14 @@
 # varshaa
 
-A new Flutter application.
+A new Flutter Portfolio application.
+
+# Portfolio App
+
+This project is a starting point for a Flutter Portfolio application.
+
+This is a Portfolio App. Since, I saw many portfolio websites all over the net, but no portfolio apps. As a app developer I wanted to create one for my own satisfaction. So, here you go, my Porfolio App, named "Varshaa". 
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
